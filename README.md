@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sdsena
+- 👋 Hi, I’m sena
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c programming and python
-- 💞️ I’m looking to collaborate on data science and programming
-- 📫 How to reach me www.linkedin.com/in/ sena-durmaz-9ba374254
+- 💞️ I’m an engineering student
+  
 
 <!---
 sdsena/sdsena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
